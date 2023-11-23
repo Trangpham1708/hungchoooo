@@ -1,0 +1,30 @@
+﻿@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/neuton/v22/UMBQrPtMoH62xUZKZKovfQr9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/neuton/v22/UMBTrPtMoH62xUZCz4g_.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Neuton';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/neuton/v22/UMBQrPtMoH62xUZKdK0vfQr9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/ptserif/v18/EJRVQgYoZZY2vCFuvAFWzro.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf) format('truetype');
+}
